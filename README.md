@@ -8,9 +8,7 @@ This is the official PyTorch implementation for our **NeurIPS 2025** paper:
 
 ![AllPath Pipeline](assets/pipeline.svg)
 
-<!-- TODO: arXiv link
-[![arXiv:2510.20229](https://img.shields.io/badge/arXiv-2510.20229-red)](https://arxiv.org/abs/2510.20229)
--->
+[![arXiv:2511.17254](https://img.shields.io/badge/arXiv-2511.17254-red)](https://arxiv.org/abs/2511.17254)
 
 ## Abstract
 
