@@ -37,10 +37,6 @@ def get_path_from_table(name: str) -> Path:
 #     os.getcwd(),
 #     os.path.dirname(_current_file_path) if _current_file_path else None,
 #     os.path.expanduser("~"),
-#     "/public/home/qianjy2022",
-#     "/root",
-#     "/home/docker_shared/qianjy2022",
-#     "/2023233226/qianjy2022",
 # ]
 
 
